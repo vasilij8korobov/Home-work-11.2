@@ -1,5 +1,5 @@
 def upper_chair(text):
-    """НЕ ЗНАЯ ЧТО ДОК СТРИНГА УЖЕ ЕСТЬ, ДОБАВЛЯЕМ"""
+    """НЕ ЗНАЯ ЧТО ДОК СТРИНГА УЖЕ ЕСТЬ ДОБАВЛЯЕМ"""
     return text.upper()
 
 def capitalize_first_chair(text):
