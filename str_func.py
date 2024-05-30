@@ -1,2 +1,2 @@
-def make_upper_first_chair_as_like_capitalize_(text):
-    return text.capitalize()
+def upper_chair(text):
+    return text.upper()
